@@ -8,22 +8,30 @@
 
 > A PyQt based face recognition program that runs on Raspberry Pi
 
+<br>
 <div align="middle">
-<img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/1.png" height="250px" >
+<img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/1.png">
+figure 1. Before face registration, face is identified as Unknown.
+</div>
+<br>
+<div align="middle">
+<img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/2.png">
+figure 2. Face regist tab before face registration.
 </div>
 
+<br>
 <div align="middle">
-<img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/2.png" height="250px" >
+<img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/3.png">
+figure 3. After registering the face, the face was identified.
 </div>
 
+<br>
 <div align="middle">
-<img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/3.png" height="250px" >
+<img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/4.png">
+figure 4. The registered face is detected, so logs are created.
 </div>
 
-<div align="middle">
-<img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/4.png" height="250px" >
-</div>
-
+<br>
 *****
 
 1. [How to Use](#How_to_Use)
