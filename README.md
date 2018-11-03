@@ -1,6 +1,3 @@
-<div align="middle">
-<img src="#" height="250px" >
-</div>
 <h1 align="center">📷 pi_face_recognition 😎</h1>
 
 <p align="center">
@@ -10,6 +7,22 @@
 ## Overview
 
 > A PyQt based face recognition program that runs on Raspberry Pi
+
+<div align="middle">
+<img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/1.png" height="250px" >
+</div>
+
+<div align="middle">
+<img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/2.png" height="250px" >
+</div>
+
+<div align="middle">
+<img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/3.png" height="250px" >
+</div>
+
+<div align="middle">
+<img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/4.png" height="250px" >
+</div>
 
 *****
 
