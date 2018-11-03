@@ -1,0 +1,4 @@
+face_recognition==1.2.3
+imutils==0.5.1
+numpy==1.15.2
+PyQt5==5.11.3
