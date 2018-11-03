@@ -11,23 +11,27 @@
 <br>
 <div align="middle">
 <img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/1.png">
+<br>
 figure 1. Before face registration, face is identified as Unknown.
 </div>
 <br>
 <div align="middle">
 <img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/2.png">
+<br>
 figure 2. Face regist tab before face registration.
 </div>
 
 <br>
 <div align="middle">
 <img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/3.png">
+<br>
 figure 3. After registering the face, the face was identified.
 </div>
 
 <br>
 <div align="middle">
 <img src="https://github.com/jaeho93/pi_face_recognition/blob/master/img/4.png">
+<br>
 figure 4. The registered face is detected, so logs are created.
 </div>
 
